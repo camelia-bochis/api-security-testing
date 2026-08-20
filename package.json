@@ -1,0 +1,12 @@
+{
+  "name": "api-security-lab",
+  "version": "1.0.0",
+  "description": "A local API security learning lab for Postman",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
