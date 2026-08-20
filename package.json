@@ -1,5 +1,5 @@
 {
-  "name": "api-security-lab",
+  "name": "api-security-testing",
   "version": "1.0.0",
   "description": "A local API security learning lab for Postman",
   "main": "server.js",
