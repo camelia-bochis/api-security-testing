@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop Pro 14",
+      "description": "14-inch professional laptop",
+      "category": "laptops",
+      "price": 1299.99,
+      "currency": "EUR",
+      "stock": 25
+    },
+    {
+      "id": 102,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse",
+      "category": "accessories",
+      "price": 39.99,
+      "currency": "EUR",
+      "stock": 150
+    },
+    {
+      "id": 103,
+      "name": "Mechanical Keyboard",
+      "description": "Mechanical keyboard with RGB lighting",
+      "category": "accessories",
+      "price": 89.99,
+      "currency": "EUR",
+      "stock": 75
+    },
+    {
+      "id": 104,
+      "name": "4K Monitor",
+      "description": "27-inch 4K professional monitor",
+      "category": "monitors",
+      "price": 449.99,
+      "currency": "EUR",
+      "stock": 18
+    },
+    {
+      "id": 105,
+      "name": "USB-C Dock",
+      "description": "Multi-port USB-C docking station",
+      "category": "accessories",
+      "price": 129.99,
+      "currency": "EUR",
+      "stock": 42
+    }
+  ]
+}
