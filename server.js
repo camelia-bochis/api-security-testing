@@ -33,7 +33,7 @@ const users = [
 // Home endpoint
 app.get("/", (req, res) => {
   res.json({
-    message: "API Security Lab",
+    message: "API Security Testing",
     endpoints: [
       "GET /users",
       "GET /users/:id"
